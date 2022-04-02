@@ -1,4 +1,4 @@
-- 👋 Hello! I'm Zheng Xuan
+- 👋 Hello! I'm Zheng Xuan.
 
 - I'm currently a Year 1 Computer Science student.
 - I aspire to become a full-stack developer.
