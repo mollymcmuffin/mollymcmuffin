@@ -3,3 +3,5 @@
 - 🖥️ I aspire to become a full-stack developer.
 - 🧗‍♂️ Learning frontend dev during my free time.
 
+portfolio-mu-bay-71.vercel.app
+
