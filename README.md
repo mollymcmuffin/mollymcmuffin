@@ -1,3 +1,2 @@
 - 👋 Hello! I'm Zheng Xuan.
 - 🎒 I'm currently a Year 3 Computer Science student.
-- 🖥️ I aspire to become a full-stack developer.
